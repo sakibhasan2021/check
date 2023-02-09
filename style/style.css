@@ -1,0 +1,92 @@
+.banner{
+    text-align: end;
+    margin-right: 15%;
+    padding-top: 20%;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.banner_article{
+    text-align: end;
+    margin-right: 15%;
+}
+button{
+    color:white;
+    background-color: rgb(219, 102, 0);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+header{
+    background-image: url("/images/banner/banner1.png");
+    height: 808px;
+}
+.failure{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 50px;
+    
+}
+p{
+    color: gray;
+}
+ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+    color: lightgreen;
+    padding-right: 5px;
+  }
+.failure_article{
+    text-align: start;
+    padding-top: 5cm;
+}
+.second_main_heading{
+    margin-left: 50%;
+    padding-top: 30px;
+}
+.second_main{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.watch{
+    background-image: url("/images/watch.png");
+    background-repeat:no-repeat;
+   margin-left: 40px;
+   position: relative;
+  text-align: start;
+  color: white;
+}
+.top-right {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+  }
+  .footer{
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 2px;
+  }
+
+  .footer_white{
+    color: white;
+  }
+
+  .email{
+    height: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(32, 29, 29);
+    border: white;
+  }
