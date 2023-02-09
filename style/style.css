@@ -58,7 +58,7 @@ ul {
 }
 
 .watch{
-    background-image: url("/images/watch.png");
+    background-image: url("../images/watch.png");
     background-repeat:no-repeat;
    margin-left: 40px;
    position: relative;
